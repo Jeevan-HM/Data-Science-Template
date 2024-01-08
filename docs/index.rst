@@ -1,9 +1,9 @@
-.. demo_project documentation master file, created by
+.. Data-Science-Template documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-demo_project documentation!
+Data-Science-Template documentation!
 ==============================================
 
 Contents:
